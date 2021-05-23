@@ -1,0 +1,58 @@
+
+
+
+.carousel img{
+  width:100%;
+  height:60%
+}
+
+.btn-primary{
+  background-color: #6648b1;
+  border: 1px solid #6648b1;
+}
+
+.btn-primary:hover{
+  background-color: #563d7c;
+  border: 1px solid #563d7c;
+}
+
+
+.fun{
+  width:100%;
+  margin-bottom: 2rem;
+}
+
+figure{
+  position: relative;
+  width:100%;
+  height: 60%;
+  margin: 0
+}
+#fixed{
+  background-image: url('img/bj1.png');
+  height: 600px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+.gif{
+  width: 100%;
+}
+
+.social a{
+  font-size:4.5rem;
+  padding: 3rem;
+}
+
+
+footer{
+  background-color: #3f3f3f;
+  color:#d5d5d5;
+  padding-top: 2rem;
+}
+.light{
+  border-top:1px solid #d5d5d5;
+  width:75%;
+}
